@@ -1,0 +1,33 @@
+.red {
+color: #FF0000;
+}
+.bold {
+	font-weight: bold;
+}
+.green {
+	color: #008000;
+}
+.olive {
+	color: #808000;
+}
+.pink {
+	color: #ffc0cb;
+}
+.xxsmall {
+	font-size: 15px;
+}
+.xsmall {
+	font-size: 25px;
+}
+.medium {
+	font-size: 45px;
+}
+.xlarge {
+	font-size: 70px;
+}
+.small {
+	font-size: 32px;
+}
+.xxlarge {
+	font-size: 100px;
+}

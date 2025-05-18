@@ -1,0 +1,15 @@
+.red {
+color: #ee1d24;
+}
+.green {
+color: #32cd32;
+}
+.blue {
+ color: #000bff;
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
